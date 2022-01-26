@@ -4,13 +4,15 @@ Electricity Bill Management System  helps in maintaining the bills and the payme
 ![image](https://user-images.githubusercontent.com/53346586/151120476-b5761a17-6528-4f5d-9aca-131cbfd986b3.png)
 
 ## Purpose:
-The aim of the project is to develop a system that is meant to partially automate the work performed in the Electricity Board like generating electricity bill, record of consuming unit of energy, store record of the user and previous unpaid record.
+The aim of the project is to develop a system that is meant to automate the work performed in the Electricity Board like generating electricity bill, record of consuming unit of energy, store record of the user etc.
 
 ## Modules of Electricity Bill Management System
-This system has only two main interfaces. One is for the admin and the other one is for the user, the here user.Along with these, we have other interfaces which can be discussed as below:
+This system has main interfaces. One is for the admin and the other one is for the user..Along with these, we have other interfaces which can be discussed as below:
 
 ### Login:
 After registration, one can log in to the system as the end-user of the system on the behalf of the user. The user will get only those privileges that are given to the user for which one has registered.
+![image](https://user-images.githubusercontent.com/53346586/151133487-3cbcb4cd-da21-43a9-867d-6713356dee31.png)
+
 
 ### User:
 The user is a customer, then he can only see the details of his account, not of any other account. The customer can see the monthly usage of electricity and can pay the bill but cannot make any changes to the data.
@@ -51,7 +53,6 @@ This module can only have one account and this account has all the privileges wh
 ![image](https://user-images.githubusercontent.com/53346586/151131358-4f3c5ecd-f393-4948-8604-cbdd7dae758b.png)
 ![image](https://user-images.githubusercontent.com/53346586/151131407-5f107cf2-3069-456c-8be9-7102227050eb.png)
 
-
 ### Payment Alert
 - If the user not paid the bill within 20 days then a payment alert will be displayed to the particular user.
  ![image](https://user-images.githubusercontent.com/53346586/151130974-526c97e6-df68-4adc-bfcb-7252199f8bdc.png)
@@ -65,5 +66,9 @@ This module can only have one account and this account has all the privileges wh
 ![image](https://user-images.githubusercontent.com/53346586/151132325-e700a9a1-cb80-4612-9792-1a7d9c0d6bd3.png)
 - After getting the query done we can check the Issue Status Panel.
 ![image](https://user-images.githubusercontent.com/53346586/151132985-7e63b5cb-f082-4971-b9b9-24fe86b1bab2.png)
+
+### Entity Relationship Diagram
+![image](https://user-images.githubusercontent.com/53346586/151133666-2b45cb65-5838-495e-a7fa-ea8adb6f36a8.png)
+
 
 
