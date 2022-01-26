@@ -7,7 +7,7 @@ Electricity Bill Management System  helps in maintaining the bills and the payme
 The aim of the project is to develop a system that is meant to automate the work performed in the Electricity Board like generating electricity bill, record of consuming unit of energy, store record of the user etc.
 
 ## Modules of Electricity Bill Management System
-This system has main interfaces. One is for the admin and the other one is for the user..Along with these, we have other interfaces which can be discussed as below:
+This system has two main interfaces. One is for the admin and the other one is for the user.Along with these, we have other interfaces which can be discussed as below:
 
 ### Login:
 After registration, one can log in to the system as the end-user of the system on the behalf of the user. The user will get only those privileges that are given to the user for which one has registered.
